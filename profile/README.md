@@ -1,6 +1,6 @@
 # Scoring Global Monitoring 
 
-Started from some ideas around interesting new product for [B2B employee scoring PROFID](https://profid.com)
+Started from some ideas around interesting new product for [B2B employee scoring PROFID](https://theprofid.com)
 
 # Competitive Analysis: theprofid.com
 
