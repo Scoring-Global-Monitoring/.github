@@ -1,6 +1,9 @@
 # Scoring Global Monitoring 
 
-Started from some ideas around interesting new product for [B2B employee scoring PROFID](https://theprofid.com)
+Started from some employees scoring ideas around interesting new product for [B2B employee scoring PROFID](https://theprofid.com) and continued with amazing [credit expert articles of FasterCapital](https://fastercapital.com/index.html)
+
+![Scoring Global Monitoring](https://github.com/user-attachments/assets/a3a25ab4-a021-40e3-b9be-d0483f18c371)
+
 
 # Competitive Analysis: theprofid.com
 
